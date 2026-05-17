@@ -2,9 +2,8 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: NANDHINI S
+* **Register Number**: 212224230174
 
 ---
 
@@ -87,33 +86,29 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
+1. The first step was to create a vpc
+2. Then subnets was created and configured inside the VPC
+3. Attached internet gateway
+4. Configured route tables
+5. EC2 instance was launched
+6. Finally configured the web server
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="734" height="351" alt="Screenshot 2026-05-17 141146" src="https://github.com/user-attachments/assets/e4d57c90-c0d6-4aca-95da-29e0b83f82f4" />
 
----
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="732" height="334" alt="Screenshot 2026-05-17 141240" src="https://github.com/user-attachments/assets/03c4b53e-16de-4b5b-9cb9-0729ca03c269" />
 
----
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="685" height="266" alt="Screenshot 2026-05-17 141532" src="https://github.com/user-attachments/assets/cfafac31-0f52-4745-a067-6f508b263899" />
 
----
 
 ## Result 
 
