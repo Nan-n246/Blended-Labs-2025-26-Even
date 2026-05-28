@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Nandhini S
+* **Register Number**: 212224230174
+* **Date of Submission**: 27/05/2026
 
 ---
 
@@ -98,31 +98,36 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1.LAUNCHED THE EC2 INSTANCE
 
----
+2.ALLOWED TRAFFIC FOR HTTP
+
+3.MONITORING INSTANCES
+
+4.MODIFYING THE INSTANCE VOLUME
+
+5.STOPPING THE INSTANCCE
+
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="926" height="906" alt="image" src="https://github.com/user-attachments/assets/b097563c-a00e-4d8d-9431-9a660204ebdf" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="931" height="901" alt="image" src="https://github.com/user-attachments/assets/bc15c68b-c833-4f5f-854c-6b49763efc86" />
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="902" height="781" alt="image" src="https://github.com/user-attachments/assets/56352404-ecf2-45e4-89f0-a4f99643f438" />
+
 
 ---
 
