@@ -79,10 +79,15 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 ## Workflow (Student Explanation)
 
 (Write the steps you followed in your own words)
+
 1.ebs volume created
+
 2.Volume linked to ec2 instance
+
 3.Mounted data to volume
+
 4.Created snapshot
+
 5.Restored it from the snapshot
 
 ## Output Screenshots (Attach 3)
